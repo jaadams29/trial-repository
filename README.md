@@ -1,2 +1,2 @@
 # trial-repository
-# I love \cofee
+# I love coffee ☕
